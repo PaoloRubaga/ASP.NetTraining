@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yIFeLqPl0DU=",
+  "dgSpecHash": "fjwz9j1sg4o=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Paolo Rubaga\\source\\repos\\WebApp\\FirstWebApp\\FirstWebApp.csproj",
+  "projectFilePath": "D:\\Progetti CSharp\\ASPNet\\ASP.NetTraining\\FirstWebApp\\FirstWebApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Paolo Rubaga\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Paolo Rubaga\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

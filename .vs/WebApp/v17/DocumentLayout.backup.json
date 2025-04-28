@@ -1,38 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Paolo Rubaga\\source\\repos\\WebApp\\",
+  "WorkspaceRootPath": "D:\\Progetti CSharp\\ASPNet\\ASP.NetTraining\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D1F0BB26-C0AA-4EB9-AB92-A5F5BC68B576}|FirstWebApp\\FirstWebApp.csproj|c:\\users\\paolo rubaga\\source\\repos\\webapp\\firstwebapp\\pages\\movies\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D1F0BB26-C0AA-4EB9-AB92-A5F5BC68B576}|FirstWebApp\\FirstWebApp.csproj|solutionrelative:firstwebapp\\pages\\movies\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D1F0BB26-C0AA-4EB9-AB92-A5F5BC68B576}|FirstWebApp\\FirstWebApp.csproj|d:\\progetti csharp\\aspnet\\asp.nettraining\\firstwebapp\\migrations\\20250427214121_initalcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1F0BB26-C0AA-4EB9-AB92-A5F5BC68B576}|FirstWebApp\\FirstWebApp.csproj|solutionrelative:firstwebapp\\migrations\\20250427214121_initalcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D1F0BB26-C0AA-4EB9-AB92-A5F5BC68B576}|FirstWebApp\\FirstWebApp.csproj|c:\\users\\paolo rubaga\\source\\repos\\webapp\\firstwebapp\\pages\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D1F0BB26-C0AA-4EB9-AB92-A5F5BC68B576}|FirstWebApp\\FirstWebApp.csproj|solutionrelative:firstwebapp\\pages\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D1F0BB26-C0AA-4EB9-AB92-A5F5BC68B576}|FirstWebApp\\FirstWebApp.csproj|c:\\users\\paolo rubaga\\source\\repos\\webapp\\firstwebapp\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D1F0BB26-C0AA-4EB9-AB92-A5F5BC68B576}|FirstWebApp\\FirstWebApp.csproj|solutionrelative:firstwebapp\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D1F0BB26-C0AA-4EB9-AB92-A5F5BC68B576}|FirstWebApp\\FirstWebApp.csproj|c:\\users\\paolo rubaga\\source\\repos\\webapp\\firstwebapp\\pages\\movies\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D1F0BB26-C0AA-4EB9-AB92-A5F5BC68B576}|FirstWebApp\\FirstWebApp.csproj|solutionrelative:firstwebapp\\pages\\movies\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D1F0BB26-C0AA-4EB9-AB92-A5F5BC68B576}|FirstWebApp\\FirstWebApp.csproj|c:\\users\\paolo rubaga\\source\\repos\\webapp\\firstwebapp\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D1F0BB26-C0AA-4EB9-AB92-A5F5BC68B576}|FirstWebApp\\FirstWebApp.csproj|solutionrelative:firstwebapp\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D1F0BB26-C0AA-4EB9-AB92-A5F5BC68B576}|FirstWebApp\\FirstWebApp.csproj|c:\\users\\paolo rubaga\\source\\repos\\webapp\\firstwebapp\\pages\\movies\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D1F0BB26-C0AA-4EB9-AB92-A5F5BC68B576}|FirstWebApp\\FirstWebApp.csproj|d:\\progetti csharp\\aspnet\\asp.nettraining\\firstwebapp\\pages\\movies\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D1F0BB26-C0AA-4EB9-AB92-A5F5BC68B576}|FirstWebApp\\FirstWebApp.csproj|solutionrelative:firstwebapp\\pages\\movies\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Paolo Rubaga\\source\\repos\\WebApp\\FirstWebApp\\Migrations\\20250427214121_InitalCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FirstWebApp\\Migrations\\20250427214121_InitalCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D1F0BB26-C0AA-4EB9-AB92-A5F5BC68B576}|FirstWebApp\\FirstWebApp.csproj|d:\\progetti csharp\\aspnet\\asp.nettraining\\firstwebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1F0BB26-C0AA-4EB9-AB92-A5F5BC68B576}|FirstWebApp\\FirstWebApp.csproj|solutionrelative:firstwebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D1F0BB26-C0AA-4EB9-AB92-A5F5BC68B576}|FirstWebApp\\FirstWebApp.csproj|c:\\users\\paolo rubaga\\source\\repos\\webapp\\firstwebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D1F0BB26-C0AA-4EB9-AB92-A5F5BC68B576}|FirstWebApp\\FirstWebApp.csproj|solutionrelative:firstwebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D1F0BB26-C0AA-4EB9-AB92-A5F5BC68B576}|FirstWebApp\\FirstWebApp.csproj|d:\\progetti csharp\\aspnet\\asp.nettraining\\firstwebapp\\pages\\movies\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1F0BB26-C0AA-4EB9-AB92-A5F5BC68B576}|FirstWebApp\\FirstWebApp.csproj|solutionrelative:firstwebapp\\pages\\movies\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1F0BB26-C0AA-4EB9-AB92-A5F5BC68B576}|FirstWebApp\\FirstWebApp.csproj|d:\\progetti csharp\\aspnet\\asp.nettraining\\firstwebapp\\pages\\movies\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1F0BB26-C0AA-4EB9-AB92-A5F5BC68B576}|FirstWebApp\\FirstWebApp.csproj|solutionrelative:firstwebapp\\pages\\movies\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1F0BB26-C0AA-4EB9-AB92-A5F5BC68B576}|FirstWebApp\\FirstWebApp.csproj|d:\\progetti csharp\\aspnet\\asp.nettraining\\firstwebapp\\pages\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1F0BB26-C0AA-4EB9-AB92-A5F5BC68B576}|FirstWebApp\\FirstWebApp.csproj|solutionrelative:firstwebapp\\pages\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1F0BB26-C0AA-4EB9-AB92-A5F5BC68B576}|FirstWebApp\\FirstWebApp.csproj|d:\\progetti csharp\\aspnet\\asp.nettraining\\firstwebapp\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1F0BB26-C0AA-4EB9-AB92-A5F5BC68B576}|FirstWebApp\\FirstWebApp.csproj|solutionrelative:firstwebapp\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1F0BB26-C0AA-4EB9-AB92-A5F5BC68B576}|FirstWebApp\\FirstWebApp.csproj|d:\\progetti csharp\\aspnet\\asp.nettraining\\firstwebapp\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1F0BB26-C0AA-4EB9-AB92-A5F5BC68B576}|FirstWebApp\\FirstWebApp.csproj|solutionrelative:firstwebapp\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,93 +42,61 @@
       "DocumentGroups": [
         {
           "DockedWidth": 611,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Create.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\Paolo Rubaga\\source\\repos\\WebApp\\FirstWebApp\\Pages\\Movies\\Create.cshtml.cs",
-              "RelativeDocumentMoniker": "FirstWebApp\\Pages\\Movies\\Create.cshtml.cs",
-              "ToolTip": "C:\\Users\\Paolo Rubaga\\source\\repos\\WebApp\\FirstWebApp\\Pages\\Movies\\Create.cshtml.cs",
-              "RelativeToolTip": "FirstWebApp\\Pages\\Movies\\Create.cshtml.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T00:06:49.47Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Paolo Rubaga\\source\\repos\\WebApp\\FirstWebApp\\Pages\\Movies\\Create.cshtml",
-              "RelativeDocumentMoniker": "FirstWebApp\\Pages\\Movies\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Paolo Rubaga\\source\\repos\\WebApp\\FirstWebApp\\Pages\\Movies\\Create.cshtml",
-              "RelativeToolTip": "FirstWebApp\\Pages\\Movies\\Create.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-28T00:06:37.56Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Paolo Rubaga\\source\\repos\\WebApp\\FirstWebApp\\Pages\\Index.cshtml",
-              "RelativeDocumentMoniker": "FirstWebApp\\Pages\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Paolo Rubaga\\source\\repos\\WebApp\\FirstWebApp\\Pages\\Index.cshtml",
-              "RelativeToolTip": "FirstWebApp\\Pages\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-27T23:53:09.311Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Paolo Rubaga\\source\\repos\\WebApp\\FirstWebApp\\Pages\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "FirstWebApp\\Pages\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Paolo Rubaga\\source\\repos\\WebApp\\FirstWebApp\\Pages\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "FirstWebApp\\Pages\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-27T23:52:36.435Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\Paolo Rubaga\\source\\repos\\WebApp\\FirstWebApp\\Pages\\Movies\\Index.cshtml.cs",
+              "DocumentMoniker": "D:\\Progetti CSharp\\ASPNet\\ASP.NetTraining\\FirstWebApp\\Pages\\Movies\\Index.cshtml.cs",
               "RelativeDocumentMoniker": "FirstWebApp\\Pages\\Movies\\Index.cshtml.cs",
-              "ToolTip": "C:\\Users\\Paolo Rubaga\\source\\repos\\WebApp\\FirstWebApp\\Pages\\Movies\\Index.cshtml.cs",
+              "ToolTip": "D:\\Progetti CSharp\\ASPNet\\ASP.NetTraining\\FirstWebApp\\Pages\\Movies\\Index.cshtml.cs",
               "RelativeToolTip": "FirstWebApp\\Pages\\Movies\\Index.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAIA4wBkAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-27T21:29:29.676Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Paolo Rubaga\\source\\repos\\WebApp\\FirstWebApp\\Pages\\Movies\\Index.cshtml",
+              "DocumentMoniker": "D:\\Progetti CSharp\\ASPNet\\ASP.NetTraining\\FirstWebApp\\Pages\\Movies\\Index.cshtml",
               "RelativeDocumentMoniker": "FirstWebApp\\Pages\\Movies\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Paolo Rubaga\\source\\repos\\WebApp\\FirstWebApp\\Pages\\Movies\\Index.cshtml",
+              "ToolTip": "D:\\Progetti CSharp\\ASPNet\\ASP.NetTraining\\FirstWebApp\\Pages\\Movies\\Index.cshtml",
               "RelativeToolTip": "FirstWebApp\\Pages\\Movies\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-27T21:29:29.557Z",
+              "WhenOpened": "2025-04-27T21:29:29.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Progetti CSharp\\ASPNet\\ASP.NetTraining\\FirstWebApp\\Program.cs",
+              "RelativeDocumentMoniker": "FirstWebApp\\Program.cs",
+              "ToolTip": "D:\\Progetti CSharp\\ASPNet\\ASP.NetTraining\\FirstWebApp\\Program.cs",
+              "RelativeToolTip": "FirstWebApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T21:29:27.57Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "20250427214121_InitalCreate.cs",
-              "DocumentMoniker": "C:\\Users\\Paolo Rubaga\\source\\repos\\WebApp\\FirstWebApp\\Migrations\\20250427214121_InitalCreate.cs",
+              "DocumentMoniker": "D:\\Progetti CSharp\\ASPNet\\ASP.NetTraining\\FirstWebApp\\Migrations\\20250427214121_InitalCreate.cs",
               "RelativeDocumentMoniker": "FirstWebApp\\Migrations\\20250427214121_InitalCreate.cs",
-              "ToolTip": "C:\\Users\\Paolo Rubaga\\source\\repos\\WebApp\\FirstWebApp\\Migrations\\20250427214121_InitalCreate.cs",
+              "ToolTip": "D:\\Progetti CSharp\\ASPNet\\ASP.NetTraining\\FirstWebApp\\Migrations\\20250427214121_InitalCreate.cs",
               "RelativeToolTip": "FirstWebApp\\Migrations\\20250427214121_InitalCreate.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -137,16 +105,53 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Paolo Rubaga\\source\\repos\\WebApp\\FirstWebApp\\Program.cs",
-              "RelativeDocumentMoniker": "FirstWebApp\\Program.cs",
-              "ToolTip": "C:\\Users\\Paolo Rubaga\\source\\repos\\WebApp\\FirstWebApp\\Program.cs",
-              "RelativeToolTip": "FirstWebApp\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T21:29:27.57Z",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Progetti CSharp\\ASPNet\\ASP.NetTraining\\FirstWebApp\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "FirstWebApp\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Progetti CSharp\\ASPNet\\ASP.NetTraining\\FirstWebApp\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "FirstWebApp\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-27T23:52:36.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Progetti CSharp\\ASPNet\\ASP.NetTraining\\FirstWebApp\\Pages\\Movies\\Create.cshtml",
+              "RelativeDocumentMoniker": "FirstWebApp\\Pages\\Movies\\Create.cshtml",
+              "ToolTip": "D:\\Progetti CSharp\\ASPNet\\ASP.NetTraining\\FirstWebApp\\Pages\\Movies\\Create.cshtml",
+              "RelativeToolTip": "FirstWebApp\\Pages\\Movies\\Create.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-28T00:06:37.56Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "D:\\Progetti CSharp\\ASPNet\\ASP.NetTraining\\FirstWebApp\\Pages\\Movies\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "FirstWebApp\\Pages\\Movies\\Create.cshtml.cs",
+              "ToolTip": "D:\\Progetti CSharp\\ASPNet\\ASP.NetTraining\\FirstWebApp\\Pages\\Movies\\Create.cshtml.cs",
+              "RelativeToolTip": "FirstWebApp\\Pages\\Movies\\Create.cshtml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T00:06:49.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Progetti CSharp\\ASPNet\\ASP.NetTraining\\FirstWebApp\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "FirstWebApp\\Pages\\Index.cshtml",
+              "ToolTip": "D:\\Progetti CSharp\\ASPNet\\ASP.NetTraining\\FirstWebApp\\Pages\\Index.cshtml",
+              "RelativeToolTip": "FirstWebApp\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-27T23:53:09.311Z"
             }
           ]
         }
