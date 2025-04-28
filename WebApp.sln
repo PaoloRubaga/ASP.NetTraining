@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35818.85 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimaWebAppMVC", "PrimaWebApp\PrimaWebAppMVC.csproj", "{F80D16E7-AEC7-48CA-B2BB-2AE2F3306F31}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstWebApp", "FirstWebApp\FirstWebApp.csproj", "{D1F0BB26-C0AA-4EB9-AB92-A5F5BC68B576}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F80D16E7-AEC7-48CA-B2BB-2AE2F3306F31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F80D16E7-AEC7-48CA-B2BB-2AE2F3306F31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F80D16E7-AEC7-48CA-B2BB-2AE2F3306F31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F80D16E7-AEC7-48CA-B2BB-2AE2F3306F31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1F0BB26-C0AA-4EB9-AB92-A5F5BC68B576}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1F0BB26-C0AA-4EB9-AB92-A5F5BC68B576}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1F0BB26-C0AA-4EB9-AB92-A5F5BC68B576}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1F0BB26-C0AA-4EB9-AB92-A5F5BC68B576}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B916D2F9-E4C5-4909-AA9B-F5C82B1F0B4F}
+	EndGlobalSection
+EndGlobal
