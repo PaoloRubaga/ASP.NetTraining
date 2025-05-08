@@ -1,34 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Progetti CSharp\\ASPNet\\ASP.NetTraining\\",
+  "WorkspaceRootPath": "C:\\Users\\Paolo Rubaga\\source\\repos\\WebApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D1F0BB26-C0AA-4EB9-AB92-A5F5BC68B576}|FirstWebApp\\FirstWebApp.csproj|d:\\progetti csharp\\aspnet\\asp.nettraining\\firstwebapp\\pages\\movies\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D1F0BB26-C0AA-4EB9-AB92-A5F5BC68B576}|FirstWebApp\\FirstWebApp.csproj|solutionrelative:firstwebapp\\pages\\movies\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F80D16E7-AEC7-48CA-B2BB-2AE2F3306F31}|PrimaWebApp\\PrimaWebAppMVC.csproj|c:\\users\\paolo rubaga\\source\\repos\\webapp\\primawebapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F80D16E7-AEC7-48CA-B2BB-2AE2F3306F31}|PrimaWebApp\\PrimaWebAppMVC.csproj|solutionrelative:primawebapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D1F0BB26-C0AA-4EB9-AB92-A5F5BC68B576}|FirstWebApp\\FirstWebApp.csproj|d:\\progetti csharp\\aspnet\\asp.nettraining\\firstwebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D1F0BB26-C0AA-4EB9-AB92-A5F5BC68B576}|FirstWebApp\\FirstWebApp.csproj|solutionrelative:firstwebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F80D16E7-AEC7-48CA-B2BB-2AE2F3306F31}|PrimaWebApp\\PrimaWebAppMVC.csproj|c:\\users\\paolo rubaga\\source\\repos\\webapp\\primawebapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80D16E7-AEC7-48CA-B2BB-2AE2F3306F31}|PrimaWebApp\\PrimaWebAppMVC.csproj|solutionrelative:primawebapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D1F0BB26-C0AA-4EB9-AB92-A5F5BC68B576}|FirstWebApp\\FirstWebApp.csproj|d:\\progetti csharp\\aspnet\\asp.nettraining\\firstwebapp\\pages\\movies\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D1F0BB26-C0AA-4EB9-AB92-A5F5BC68B576}|FirstWebApp\\FirstWebApp.csproj|solutionrelative:firstwebapp\\pages\\movies\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F80D16E7-AEC7-48CA-B2BB-2AE2F3306F31}|PrimaWebApp\\PrimaWebAppMVC.csproj|c:\\users\\paolo rubaga\\source\\repos\\webapp\\primawebapp\\views\\home\\paginaprova.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F80D16E7-AEC7-48CA-B2BB-2AE2F3306F31}|PrimaWebApp\\PrimaWebAppMVC.csproj|solutionrelative:primawebapp\\views\\home\\paginaprova.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D1F0BB26-C0AA-4EB9-AB92-A5F5BC68B576}|FirstWebApp\\FirstWebApp.csproj|d:\\progetti csharp\\aspnet\\asp.nettraining\\firstwebapp\\pages\\movies\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D1F0BB26-C0AA-4EB9-AB92-A5F5BC68B576}|FirstWebApp\\FirstWebApp.csproj|solutionrelative:firstwebapp\\pages\\movies\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{F80D16E7-AEC7-48CA-B2BB-2AE2F3306F31}|PrimaWebApp\\PrimaWebAppMVC.csproj|c:\\users\\paolo rubaga\\source\\repos\\webapp\\primawebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80D16E7-AEC7-48CA-B2BB-2AE2F3306F31}|PrimaWebApp\\PrimaWebAppMVC.csproj|solutionrelative:primawebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D1F0BB26-C0AA-4EB9-AB92-A5F5BC68B576}|FirstWebApp\\FirstWebApp.csproj|d:\\progetti csharp\\aspnet\\asp.nettraining\\firstwebapp\\pages\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D1F0BB26-C0AA-4EB9-AB92-A5F5BC68B576}|FirstWebApp\\FirstWebApp.csproj|solutionrelative:firstwebapp\\pages\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D1F0BB26-C0AA-4EB9-AB92-A5F5BC68B576}|FirstWebApp\\FirstWebApp.csproj|d:\\progetti csharp\\aspnet\\asp.nettraining\\firstwebapp\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D1F0BB26-C0AA-4EB9-AB92-A5F5BC68B576}|FirstWebApp\\FirstWebApp.csproj|solutionrelative:firstwebapp\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D1F0BB26-C0AA-4EB9-AB92-A5F5BC68B576}|FirstWebApp\\FirstWebApp.csproj|d:\\progetti csharp\\aspnet\\asp.nettraining\\firstwebapp\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D1F0BB26-C0AA-4EB9-AB92-A5F5BC68B576}|FirstWebApp\\FirstWebApp.csproj|solutionrelative:firstwebapp\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{F80D16E7-AEC7-48CA-B2BB-2AE2F3306F31}|PrimaWebApp\\PrimaWebAppMVC.csproj|c:\\users\\paolo rubaga\\source\\repos\\webapp\\primawebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F80D16E7-AEC7-48CA-B2BB-2AE2F3306F31}|PrimaWebApp\\PrimaWebAppMVC.csproj|solutionrelative:primawebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,103 +30,72 @@
       "DocumentGroups": [
         {
           "DockedWidth": 611,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PaginaProva.cshtml",
+              "DocumentMoniker": "C:\\Users\\Paolo Rubaga\\source\\repos\\WebApp\\PrimaWebApp\\Views\\Home\\PaginaProva.cshtml",
+              "RelativeDocumentMoniker": "PrimaWebApp\\Views\\Home\\PaginaProva.cshtml",
+              "ToolTip": "C:\\Users\\Paolo Rubaga\\source\\repos\\WebApp\\PrimaWebApp\\Views\\Home\\PaginaProva.cshtml",
+              "RelativeToolTip": "PrimaWebApp\\Views\\Home\\PaginaProva.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-07T22:49:28.219Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Index.cshtml.cs",
-              "DocumentMoniker": "D:\\Progetti CSharp\\ASPNet\\ASP.NetTraining\\FirstWebApp\\Pages\\Movies\\Index.cshtml.cs",
-              "RelativeDocumentMoniker": "FirstWebApp\\Pages\\Movies\\Index.cshtml.cs",
-              "ToolTip": "D:\\Progetti CSharp\\ASPNet\\ASP.NetTraining\\FirstWebApp\\Pages\\Movies\\Index.cshtml.cs",
-              "RelativeToolTip": "FirstWebApp\\Pages\\Movies\\Index.cshtml.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAIA4wBkAAAAMAAAAAAAAAA==",
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Paolo Rubaga\\source\\repos\\WebApp\\PrimaWebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "PrimaWebApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Paolo Rubaga\\source\\repos\\WebApp\\PrimaWebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "PrimaWebApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-07T22:47:46.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Paolo Rubaga\\source\\repos\\WebApp\\PrimaWebApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "PrimaWebApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Paolo Rubaga\\source\\repos\\WebApp\\PrimaWebApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "PrimaWebApp\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T21:29:29.676Z",
+              "WhenOpened": "2025-05-07T22:35:33.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Paolo Rubaga\\source\\repos\\WebApp\\PrimaWebApp\\Program.cs",
+              "RelativeDocumentMoniker": "PrimaWebApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Paolo Rubaga\\source\\repos\\WebApp\\PrimaWebApp\\Program.cs",
+              "RelativeToolTip": "PrimaWebApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T22:37:05.322Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Progetti CSharp\\ASPNet\\ASP.NetTraining\\FirstWebApp\\Pages\\Movies\\Index.cshtml",
-              "RelativeDocumentMoniker": "FirstWebApp\\Pages\\Movies\\Index.cshtml",
-              "ToolTip": "D:\\Progetti CSharp\\ASPNet\\ASP.NetTraining\\FirstWebApp\\Pages\\Movies\\Index.cshtml",
-              "RelativeToolTip": "FirstWebApp\\Pages\\Movies\\Index.cshtml",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Paolo Rubaga\\source\\repos\\WebApp\\PrimaWebApp\\appsettings.json",
+              "RelativeDocumentMoniker": "PrimaWebApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\Paolo Rubaga\\source\\repos\\WebApp\\PrimaWebApp\\appsettings.json",
+              "RelativeToolTip": "PrimaWebApp\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-27T21:29:29.557Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Progetti CSharp\\ASPNet\\ASP.NetTraining\\FirstWebApp\\Program.cs",
-              "RelativeDocumentMoniker": "FirstWebApp\\Program.cs",
-              "ToolTip": "D:\\Progetti CSharp\\ASPNet\\ASP.NetTraining\\FirstWebApp\\Program.cs",
-              "RelativeToolTip": "FirstWebApp\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T21:29:27.57Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-07T22:27:16.357Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\Progetti CSharp\\ASPNet\\ASP.NetTraining\\FirstWebApp\\Pages\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "FirstWebApp\\Pages\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\Progetti CSharp\\ASPNet\\ASP.NetTraining\\FirstWebApp\\Pages\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "FirstWebApp\\Pages\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-27T23:52:36.435Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\Progetti CSharp\\ASPNet\\ASP.NetTraining\\FirstWebApp\\Pages\\Movies\\Create.cshtml",
-              "RelativeDocumentMoniker": "FirstWebApp\\Pages\\Movies\\Create.cshtml",
-              "ToolTip": "D:\\Progetti CSharp\\ASPNet\\ASP.NetTraining\\FirstWebApp\\Pages\\Movies\\Create.cshtml",
-              "RelativeToolTip": "FirstWebApp\\Pages\\Movies\\Create.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA0AAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-28T00:06:37.56Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Create.cshtml.cs",
-              "DocumentMoniker": "D:\\Progetti CSharp\\ASPNet\\ASP.NetTraining\\FirstWebApp\\Pages\\Movies\\Create.cshtml.cs",
-              "RelativeDocumentMoniker": "FirstWebApp\\Pages\\Movies\\Create.cshtml.cs",
-              "ToolTip": "D:\\Progetti CSharp\\ASPNet\\ASP.NetTraining\\FirstWebApp\\Pages\\Movies\\Create.cshtml.cs",
-              "RelativeToolTip": "FirstWebApp\\Pages\\Movies\\Create.cshtml.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T00:06:49.47Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Progetti CSharp\\ASPNet\\ASP.NetTraining\\FirstWebApp\\Pages\\Index.cshtml",
-              "RelativeDocumentMoniker": "FirstWebApp\\Pages\\Index.cshtml",
-              "ToolTip": "D:\\Progetti CSharp\\ASPNet\\ASP.NetTraining\\FirstWebApp\\Pages\\Index.cshtml",
-              "RelativeToolTip": "FirstWebApp\\Pages\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-27T23:53:09.311Z"
             }
           ]
         }

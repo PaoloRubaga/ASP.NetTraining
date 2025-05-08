@@ -67,3 +67,4 @@ D:\Progetti CSharp\ASPNet\ASP.NetTraining\PrimaWebApp\obj\Debug\net8.0\refint\Pr
 D:\Progetti CSharp\ASPNet\ASP.NetTraining\PrimaWebApp\obj\Debug\net8.0\PrimaWebAppMVC.pdb
 D:\Progetti CSharp\ASPNet\ASP.NetTraining\PrimaWebApp\obj\Debug\net8.0\PrimaWebAppMVC.genruntimeconfig.cache
 D:\Progetti CSharp\ASPNet\ASP.NetTraining\PrimaWebApp\obj\Debug\net8.0\ref\PrimaWebAppMVC.dll
+C:\Users\Paolo Rubaga\source\repos\WebApp\PrimaWebApp\obj\Debug\net8.0\PrimaWebAppMVC.sourcelink.json

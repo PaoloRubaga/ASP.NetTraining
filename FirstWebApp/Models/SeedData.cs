@@ -8,9 +8,7 @@ public static class SeedData
 {
     public static void Initialize(IServiceProvider serviceProvider)
     {
-        using (var context = new FirstWebAppContext(
-            serviceProvider.GetRequiredService<
-                DbContextOptions<FirstWebAppContext>>()))
+        using (var context = new FirstWebAppContext(serviceProvider.GetRequiredService<DbContextOptions<FirstWebAppContext>>()))
         {
             if (context == null || context.Movie == null)
             {

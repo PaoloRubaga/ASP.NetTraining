@@ -1,23 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Progetti CSharp\\ASPNet\\ASP.NetTraining\\PrimaWebApp\\PrimaWebAppMVC.csproj": {}
+    "C:\\Users\\Paolo Rubaga\\source\\repos\\WebApp\\PrimaWebApp\\PrimaWebAppMVC.csproj": {}
   },
   "projects": {
-    "D:\\Progetti CSharp\\ASPNet\\ASP.NetTraining\\PrimaWebApp\\PrimaWebAppMVC.csproj": {
+    "C:\\Users\\Paolo Rubaga\\source\\repos\\WebApp\\PrimaWebApp\\PrimaWebAppMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Progetti CSharp\\ASPNet\\ASP.NetTraining\\PrimaWebApp\\PrimaWebAppMVC.csproj",
+        "projectUniqueName": "C:\\Users\\Paolo Rubaga\\source\\repos\\WebApp\\PrimaWebApp\\PrimaWebAppMVC.csproj",
         "projectName": "PrimaWebAppMVC",
-        "projectPath": "D:\\Progetti CSharp\\ASPNet\\ASP.NetTraining\\PrimaWebApp\\PrimaWebAppMVC.csproj",
+        "projectPath": "C:\\Users\\Paolo Rubaga\\source\\repos\\WebApp\\PrimaWebApp\\PrimaWebAppMVC.csproj",
         "packagesPath": "C:\\Users\\Paolo Rubaga\\.nuget\\packages\\",
-        "outputPath": "D:\\Progetti CSharp\\ASPNet\\ASP.NetTraining\\PrimaWebApp\\obj\\",
+        "outputPath": "C:\\Users\\Paolo Rubaga\\source\\repos\\WebApp\\PrimaWebApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
+          "C:\\Program Files\\DevExpress 23.1\\Components\\Offline Packages",
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
           "C:\\Users\\Paolo Rubaga\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 23.1.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,6 +28,8 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\DevExpress 23.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -44,7 +48,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.100"
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -68,7 +72,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
