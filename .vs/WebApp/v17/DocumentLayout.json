@@ -1,26 +1,54 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Paolo Rubaga\\source\\repos\\WebApp\\",
+  "WorkspaceRootPath": "C:\\Progetti\\Corso-Studio\\ASP.NetTraining\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F80D16E7-AEC7-48CA-B2BB-2AE2F3306F31}|PrimaWebApp\\PrimaWebAppMVC.csproj|c:\\users\\paolo rubaga\\source\\repos\\webapp\\primawebapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{F80D16E7-AEC7-48CA-B2BB-2AE2F3306F31}|PrimaWebApp\\PrimaWebAppMVC.csproj|c:\\progetti\\corso-studio\\asp.nettraining\\primawebapp\\repo\\impiegatorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80D16E7-AEC7-48CA-B2BB-2AE2F3306F31}|PrimaWebApp\\PrimaWebAppMVC.csproj|solutionrelative:primawebapp\\repo\\impiegatorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80D16E7-AEC7-48CA-B2BB-2AE2F3306F31}|PrimaWebApp\\PrimaWebAppMVC.csproj|c:\\progetti\\corso-studio\\asp.nettraining\\primawebapp\\views\\impiegati\\crea.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F80D16E7-AEC7-48CA-B2BB-2AE2F3306F31}|PrimaWebApp\\PrimaWebAppMVC.csproj|solutionrelative:primawebapp\\views\\impiegati\\crea.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80D16E7-AEC7-48CA-B2BB-2AE2F3306F31}|PrimaWebApp\\PrimaWebAppMVC.csproj|c:\\progetti\\corso-studio\\asp.nettraining\\primawebapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F80D16E7-AEC7-48CA-B2BB-2AE2F3306F31}|PrimaWebApp\\PrimaWebAppMVC.csproj|solutionrelative:primawebapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F80D16E7-AEC7-48CA-B2BB-2AE2F3306F31}|PrimaWebApp\\PrimaWebAppMVC.csproj|c:\\users\\paolo rubaga\\source\\repos\\webapp\\primawebapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F80D16E7-AEC7-48CA-B2BB-2AE2F3306F31}|PrimaWebApp\\PrimaWebAppMVC.csproj|solutionrelative:primawebapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F80D16E7-AEC7-48CA-B2BB-2AE2F3306F31}|PrimaWebApp\\PrimaWebAppMVC.csproj|c:\\progetti\\corso-studio\\asp.nettraining\\primawebapp\\views\\impiegati\\dettaglio.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F80D16E7-AEC7-48CA-B2BB-2AE2F3306F31}|PrimaWebApp\\PrimaWebAppMVC.csproj|solutionrelative:primawebapp\\views\\impiegati\\dettaglio.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F80D16E7-AEC7-48CA-B2BB-2AE2F3306F31}|PrimaWebApp\\PrimaWebAppMVC.csproj|c:\\users\\paolo rubaga\\source\\repos\\webapp\\primawebapp\\views\\home\\paginaprova.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F80D16E7-AEC7-48CA-B2BB-2AE2F3306F31}|PrimaWebApp\\PrimaWebAppMVC.csproj|solutionrelative:primawebapp\\views\\home\\paginaprova.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{F80D16E7-AEC7-48CA-B2BB-2AE2F3306F31}|PrimaWebApp\\PrimaWebAppMVC.csproj|c:\\progetti\\corso-studio\\asp.nettraining\\primawebapp\\controllers\\impiegaticontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80D16E7-AEC7-48CA-B2BB-2AE2F3306F31}|PrimaWebApp\\PrimaWebAppMVC.csproj|solutionrelative:primawebapp\\controllers\\impiegaticontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F80D16E7-AEC7-48CA-B2BB-2AE2F3306F31}|PrimaWebApp\\PrimaWebAppMVC.csproj|c:\\users\\paolo rubaga\\source\\repos\\webapp\\primawebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F80D16E7-AEC7-48CA-B2BB-2AE2F3306F31}|PrimaWebApp\\PrimaWebAppMVC.csproj|c:\\progetti\\corso-studio\\asp.nettraining\\primawebapp\\views\\impiegati\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F80D16E7-AEC7-48CA-B2BB-2AE2F3306F31}|PrimaWebApp\\PrimaWebAppMVC.csproj|solutionrelative:primawebapp\\views\\impiegati\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80D16E7-AEC7-48CA-B2BB-2AE2F3306F31}|PrimaWebApp\\PrimaWebAppMVC.csproj|c:\\progetti\\corso-studio\\asp.nettraining\\primawebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F80D16E7-AEC7-48CA-B2BB-2AE2F3306F31}|PrimaWebApp\\PrimaWebAppMVC.csproj|solutionrelative:primawebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F80D16E7-AEC7-48CA-B2BB-2AE2F3306F31}|PrimaWebApp\\PrimaWebAppMVC.csproj|c:\\users\\paolo rubaga\\source\\repos\\webapp\\primawebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{F80D16E7-AEC7-48CA-B2BB-2AE2F3306F31}|PrimaWebApp\\PrimaWebAppMVC.csproj|c:\\progetti\\corso-studio\\asp.nettraining\\primawebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{F80D16E7-AEC7-48CA-B2BB-2AE2F3306F31}|PrimaWebApp\\PrimaWebAppMVC.csproj|solutionrelative:primawebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80D16E7-AEC7-48CA-B2BB-2AE2F3306F31}|PrimaWebApp\\PrimaWebAppMVC.csproj|c:\\progetti\\corso-studio\\asp.nettraining\\primawebapp\\models\\impiegato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80D16E7-AEC7-48CA-B2BB-2AE2F3306F31}|PrimaWebApp\\PrimaWebAppMVC.csproj|solutionrelative:primawebapp\\models\\impiegato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80D16E7-AEC7-48CA-B2BB-2AE2F3306F31}|PrimaWebApp\\PrimaWebAppMVC.csproj|c:\\progetti\\corso-studio\\asp.nettraining\\primawebapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80D16E7-AEC7-48CA-B2BB-2AE2F3306F31}|PrimaWebApp\\PrimaWebAppMVC.csproj|solutionrelative:primawebapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80D16E7-AEC7-48CA-B2BB-2AE2F3306F31}|PrimaWebApp\\PrimaWebAppMVC.csproj|c:\\progetti\\corso-studio\\asp.nettraining\\primawebapp\\views\\home\\paginaprova.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F80D16E7-AEC7-48CA-B2BB-2AE2F3306F31}|PrimaWebApp\\PrimaWebAppMVC.csproj|solutionrelative:primawebapp\\views\\home\\paginaprova.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80D16E7-AEC7-48CA-B2BB-2AE2F3306F31}|PrimaWebApp\\PrimaWebAppMVC.csproj|c:\\progetti\\corso-studio\\asp.nettraining\\primawebapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F80D16E7-AEC7-48CA-B2BB-2AE2F3306F31}|PrimaWebApp\\PrimaWebAppMVC.csproj|solutionrelative:primawebapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,72 +58,156 @@
       "DocumentGroups": [
         {
           "DockedWidth": 611,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "PaginaProva.cshtml",
-              "DocumentMoniker": "C:\\Users\\Paolo Rubaga\\source\\repos\\WebApp\\PrimaWebApp\\Views\\Home\\PaginaProva.cshtml",
-              "RelativeDocumentMoniker": "PrimaWebApp\\Views\\Home\\PaginaProva.cshtml",
-              "ToolTip": "C:\\Users\\Paolo Rubaga\\source\\repos\\WebApp\\PrimaWebApp\\Views\\Home\\PaginaProva.cshtml",
-              "RelativeToolTip": "PrimaWebApp\\Views\\Home\\PaginaProva.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-07T22:49:28.219Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Paolo Rubaga\\source\\repos\\WebApp\\PrimaWebApp\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "PrimaWebApp\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Paolo Rubaga\\source\\repos\\WebApp\\PrimaWebApp\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "PrimaWebApp\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-07T22:47:46.843Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Paolo Rubaga\\source\\repos\\WebApp\\PrimaWebApp\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "PrimaWebApp\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Paolo Rubaga\\source\\repos\\WebApp\\PrimaWebApp\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "PrimaWebApp\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T22:35:33.09Z",
+              "Title": "Crea.cshtml",
+              "DocumentMoniker": "C:\\Progetti\\Corso-Studio\\ASP.NetTraining\\PrimaWebApp\\Views\\Impiegati\\Crea.cshtml",
+              "RelativeDocumentMoniker": "PrimaWebApp\\Views\\Impiegati\\Crea.cshtml",
+              "ToolTip": "C:\\Progetti\\Corso-Studio\\ASP.NetTraining\\PrimaWebApp\\Views\\Impiegati\\Crea.cshtml",
+              "RelativeToolTip": "PrimaWebApp\\Views\\Impiegati\\Crea.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-24T13:30:41.679Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Paolo Rubaga\\source\\repos\\WebApp\\PrimaWebApp\\Program.cs",
-              "RelativeDocumentMoniker": "PrimaWebApp\\Program.cs",
-              "ToolTip": "C:\\Users\\Paolo Rubaga\\source\\repos\\WebApp\\PrimaWebApp\\Program.cs",
-              "RelativeToolTip": "PrimaWebApp\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Dettaglio.cshtml",
+              "DocumentMoniker": "C:\\Progetti\\Corso-Studio\\ASP.NetTraining\\PrimaWebApp\\Views\\Impiegati\\Dettaglio.cshtml",
+              "RelativeDocumentMoniker": "PrimaWebApp\\Views\\Impiegati\\Dettaglio.cshtml",
+              "ToolTip": "C:\\Progetti\\Corso-Studio\\ASP.NetTraining\\PrimaWebApp\\Views\\Impiegati\\Dettaglio.cshtml",
+              "RelativeToolTip": "PrimaWebApp\\Views\\Impiegati\\Dettaglio.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-24T12:14:02.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Progetti\\Corso-Studio\\ASP.NetTraining\\PrimaWebApp\\Views\\Impiegati\\Index.cshtml",
+              "RelativeDocumentMoniker": "PrimaWebApp\\Views\\Impiegati\\Index.cshtml",
+              "ToolTip": "C:\\Progetti\\Corso-Studio\\ASP.NetTraining\\PrimaWebApp\\Views\\Impiegati\\Index.cshtml",
+              "RelativeToolTip": "PrimaWebApp\\Views\\Impiegati\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-24T10:00:17.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Progetti\\Corso-Studio\\ASP.NetTraining\\PrimaWebApp\\appsettings.json",
+              "RelativeDocumentMoniker": "PrimaWebApp\\appsettings.json",
+              "ToolTip": "C:\\Progetti\\Corso-Studio\\ASP.NetTraining\\PrimaWebApp\\appsettings.json",
+              "RelativeToolTip": "PrimaWebApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-24T09:37:44.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ImpiegatoRepository.cs",
+              "DocumentMoniker": "C:\\Progetti\\Corso-Studio\\ASP.NetTraining\\PrimaWebApp\\Repo\\ImpiegatoRepository.cs",
+              "RelativeDocumentMoniker": "PrimaWebApp\\Repo\\ImpiegatoRepository.cs",
+              "ToolTip": "C:\\Progetti\\Corso-Studio\\ASP.NetTraining\\PrimaWebApp\\Repo\\ImpiegatoRepository.cs",
+              "RelativeToolTip": "PrimaWebApp\\Repo\\ImpiegatoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T22:37:05.322Z",
+              "WhenOpened": "2025-06-24T09:32:05.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Progetti\\Corso-Studio\\ASP.NetTraining\\PrimaWebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "PrimaWebApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Progetti\\Corso-Studio\\ASP.NetTraining\\PrimaWebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "PrimaWebApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-24T09:30:09.626Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Paolo Rubaga\\source\\repos\\WebApp\\PrimaWebApp\\appsettings.json",
-              "RelativeDocumentMoniker": "PrimaWebApp\\appsettings.json",
-              "ToolTip": "C:\\Users\\Paolo Rubaga\\source\\repos\\WebApp\\PrimaWebApp\\appsettings.json",
-              "RelativeToolTip": "PrimaWebApp\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-07T22:27:16.357Z",
+              "Title": "ImpiegatiController.cs",
+              "DocumentMoniker": "C:\\Progetti\\Corso-Studio\\ASP.NetTraining\\PrimaWebApp\\Controllers\\ImpiegatiController.cs",
+              "RelativeDocumentMoniker": "PrimaWebApp\\Controllers\\ImpiegatiController.cs",
+              "ToolTip": "C:\\Progetti\\Corso-Studio\\ASP.NetTraining\\PrimaWebApp\\Controllers\\ImpiegatiController.cs",
+              "RelativeToolTip": "PrimaWebApp\\Controllers\\ImpiegatiController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwCQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T09:27:16.794Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Progetti\\Corso-Studio\\ASP.NetTraining\\PrimaWebApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "PrimaWebApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Progetti\\Corso-Studio\\ASP.NetTraining\\PrimaWebApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "PrimaWebApp\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T22:35:33.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Progetti\\Corso-Studio\\ASP.NetTraining\\PrimaWebApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "PrimaWebApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Progetti\\Corso-Studio\\ASP.NetTraining\\PrimaWebApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "PrimaWebApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-24T09:04:42.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Progetti\\Corso-Studio\\ASP.NetTraining\\PrimaWebApp\\Program.cs",
+              "RelativeDocumentMoniker": "PrimaWebApp\\Program.cs",
+              "ToolTip": "C:\\Progetti\\Corso-Studio\\ASP.NetTraining\\PrimaWebApp\\Program.cs",
+              "RelativeToolTip": "PrimaWebApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T22:37:05.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Impiegato.cs",
+              "DocumentMoniker": "C:\\Progetti\\Corso-Studio\\ASP.NetTraining\\PrimaWebApp\\Models\\Impiegato.cs",
+              "RelativeDocumentMoniker": "PrimaWebApp\\Models\\Impiegato.cs",
+              "ToolTip": "C:\\Progetti\\Corso-Studio\\ASP.NetTraining\\PrimaWebApp\\Models\\Impiegato.cs",
+              "RelativeToolTip": "PrimaWebApp\\Models\\Impiegato.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T09:55:56.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PaginaProva.cshtml",
+              "DocumentMoniker": "C:\\Progetti\\Corso-Studio\\ASP.NetTraining\\PrimaWebApp\\Views\\Home\\PaginaProva.cshtml",
+              "RelativeDocumentMoniker": "PrimaWebApp\\Views\\Home\\PaginaProva.cshtml",
+              "ToolTip": "C:\\Progetti\\Corso-Studio\\ASP.NetTraining\\PrimaWebApp\\Views\\Home\\PaginaProva.cshtml",
+              "RelativeToolTip": "PrimaWebApp\\Views\\Home\\PaginaProva.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-07T22:49:28.219Z"
             }
           ]
         }

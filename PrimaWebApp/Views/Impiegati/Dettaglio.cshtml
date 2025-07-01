@@ -1,0 +1,14 @@
+﻿@model PrimaWebAppMVC.Models.Impiegato
+
+@{
+    ViewData["Title"] = "Dettaglio " + Model.Cognome;
+}
+
+<h1>Questa è la pagina di @Model.Cognome</h1>
+
+<div>
+    <br />L'email è @Model.Email
+    <br />e il livello è @Model.Livello
+    
+</div>
+

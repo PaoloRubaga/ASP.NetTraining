@@ -1,53 +1,77 @@
 is_global = true
 build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
 build_property.TargetPlatformMinVersion = 
 build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
 build_property.ProjectTypeGuids = 
 build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = PrimaWebAppMVC
 build_property.RootNamespace = PrimaWebAppMVC
-build_property.ProjectDir = C:\Users\Paolo Rubaga\source\repos\WebApp\PrimaWebApp\
+build_property.ProjectDir = C:\Progetti\Corso-Studio\ASP.NetTraining\PrimaWebApp\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Paolo Rubaga\source\repos\WebApp\PrimaWebApp
+build_property.MSBuildProjectDirectory = C:\Progetti\Corso-Studio\ASP.NetTraining\PrimaWebApp
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 8.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/Paolo Rubaga/source/repos/WebApp/PrimaWebApp/Views/Home/Index.cshtml]
+[C:/Progetti/Corso-Studio/ASP.NetTraining/PrimaWebApp/Views/Home/Impiegati.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbXBpZWdhdGkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Progetti/Corso-Studio/ASP.NetTraining/PrimaWebApp/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Paolo Rubaga/source/repos/WebApp/PrimaWebApp/Views/Home/PaginaProva.cshtml]
+[C:/Progetti/Corso-Studio/ASP.NetTraining/PrimaWebApp/Views/Home/PaginaProva.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQYWdpbmFQcm92YS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Paolo Rubaga/source/repos/WebApp/PrimaWebApp/Views/Home/Privacy.cshtml]
+[C:/Progetti/Corso-Studio/ASP.NetTraining/PrimaWebApp/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Paolo Rubaga/source/repos/WebApp/PrimaWebApp/Views/Shared/Error.cshtml]
+[C:/Progetti/Corso-Studio/ASP.NetTraining/PrimaWebApp/Views/Impiegati/Crea.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW1waWVnYXRpXENyZWEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Progetti/Corso-Studio/ASP.NetTraining/PrimaWebApp/Views/Impiegati/Dettaglio.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW1waWVnYXRpXERldHRhZ2xpby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Progetti/Corso-Studio/ASP.NetTraining/PrimaWebApp/Views/Impiegati/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW1waWVnYXRpXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Progetti/Corso-Studio/ASP.NetTraining/PrimaWebApp/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Paolo Rubaga/source/repos/WebApp/PrimaWebApp/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Progetti/Corso-Studio/ASP.NetTraining/PrimaWebApp/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Paolo Rubaga/source/repos/WebApp/PrimaWebApp/Views/_ViewImports.cshtml]
+[C:/Progetti/Corso-Studio/ASP.NetTraining/PrimaWebApp/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Paolo Rubaga/source/repos/WebApp/PrimaWebApp/Views/_ViewStart.cshtml]
+[C:/Progetti/Corso-Studio/ASP.NetTraining/PrimaWebApp/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Paolo Rubaga/source/repos/WebApp/PrimaWebApp/Views/Shared/_Layout.cshtml]
+[C:/Progetti/Corso-Studio/ASP.NetTraining/PrimaWebApp/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-ez9zf644eg

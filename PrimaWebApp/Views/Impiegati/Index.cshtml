@@ -1,0 +1,28 @@
+﻿
+@model IEnumerable<PrimaWebAppMVC.Models.Impiegato>
+
+@{
+    ViewData["Title"] = "Impiegati";
+}
+
+<h1>Impiegati</h1>
+
+<div>
+    <table class="table">
+        <tr>
+            <th>Cognome</th>
+            <th>Email</th>
+            <th>Livello</th>
+        </tr>
+        @foreach(var item in Model)
+        {
+            <tr>
+                <td>@item.Cognome</td>
+                <td>@item.Email</td>
+                <td>@item.Livello</td>
+            </tr>
+        }
+    </table>
+    
+</div>
+
